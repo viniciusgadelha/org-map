@@ -78,7 +78,7 @@ async function buildMap() {
   const defs = svg.append("defs");
   const g = svg.append("g");
 
-  // Zoom/pan with sensible scale limits
+  // Zoom/pan with sensible scale limits to keep users from zooming too much
   const zoom = d3.zoom()
     .scaleExtent([0.3, 4])
     .on("zoom", (event) => {
