@@ -1,0 +1,410 @@
+[
+  {
+    "id": "andreas.sumper",
+    "name": "Andreas Sumper",
+    "slug": "andreas-sumper",
+    "type": "person",
+    "cluster": "Core",
+    "photo": "andreas-sumper.jpg",
+    "description": "Professor and Vice-Rector at UPC. Specialist in power systems and smart grids.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=a04Rbu8AAAAJ"
+      }
+    ]
+  },
+  {
+    "id": "monica.aragues",
+    "name": "Monica Aragues",
+    "slug": "monica-aragues",
+    "type": "person",
+    "cluster": "Core",
+    "photo": "monica-aragues.jpg",
+    "description": "Associate Professor at CITCEA-UPC working on renewable energy integration and power electronics.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=bU5813MAAAAJ"
+      }
+    ]
+  },
+  {
+    "id": "eduard.bullich",
+    "name": "Eduard Bullich",
+    "slug": "eduard-bullich",
+    "type": "person",
+    "cluster": "Core",
+    "photo": "eduard-bullich.jpg",
+    "description": "Researcher at CITCEA-UPC focusing on power electronics and photovoltaic grid integration.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=QkKv1Q4AAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  {
+    "id": "joan.marc",
+    "name": "Joan Marc",
+    "slug": "joan-marc",
+    "type": "person",
+    "cluster": "Core",
+    "photo": "joan-marc.jpg",
+    "description": "Researcher at CITCEA-UPC working on power systems and electrical network analysis.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=Oq41prMAAAAJ"
+      }
+    ]
+  },
+  {
+    "id": "matteo.ranaboldo",
+    "name": "Matteo Ranaboldo",
+    "slug": "matteo-ranaboldo",
+    "type": "person",
+    "cluster": "Core",
+    "photo": "matteo-ranaboldo.jpg",
+    "description": "Researcher working on energy system modelling and optimization.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=q4DUaWkAAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  {
+    "id": "sara.barja",
+    "name": "Sara Barja",
+    "slug": "sara-barja",
+    "type": "person",
+    "cluster": "Core",
+    "photo": "sara-barja.jpg",
+    "description": "Researcher at CITCEA-UPC specializing in smart grids and energy system optimization.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=kUB52vwAAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  {
+    "id": "vinicius.gadelha",
+    "name": "Vinicius Gadelha",
+    "slug": "vinicius-gadelha",
+    "type": "person",
+    "cluster": "People",
+    "photo": "vinicius-gadelha.jpg",
+    "description": "Postdoctoral researcher and substitute professor. Holds a PhD in Electrical Engineering, where his work focused on the impact of power electronics in distribution networks and grid concepts based on voltage source converters. His research focuses on data-driven solutions for modern power systems, integrating machine learning, optimization, and power flow analysis to improve grid flexibility, reliability, and renewable energy integration.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Ec3IuegAAAAJ&hl=en"
+      }
+    ]
+  },
+  {
+    "id": "paula.gonzalez",
+    "name": "Paula Gonzalez",
+    "slug": "paula-gonzalez",
+    "type": "person",
+    "cluster": "People",
+    "photo": "paula-gonzalez.jpg",
+    "description": "Researcher working on energy communities and energy systems optimization.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=SIWthlkAAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  {
+    "id": "antonio.saldana",
+    "name": "Antonio Saldaña",
+    "slug": "antonio-saldana",
+    "type": "person",
+    "cluster": "People",
+    "photo": "antonio-saldana.jpg",
+    "description": "Researcher focusing on distribution network planning and machine learning in energy systems.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=es&user=chUWIOkAAAAJ"
+      }
+    ]
+  },
+  {
+    "id": "marc.jene",
+    "name": "Marc Jene",
+    "slug": "marc-jene",
+    "type": "person",
+    "cluster": "People",
+    "photo": "marc-jene.jpg",
+    "description": "Researcher working on data-driven energy system modelling and smart grid analytics.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Svr91xgAAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  {
+    "id": "pau.fisco",
+    "name": "Pau Fisco",
+    "slug": "pau-fisco",
+    "type": "person",
+    "cluster": "People",
+    "photo": "pau-fisco.jpg",
+    "description": "Researcher focusing on smart grid technologies and energy system modelling.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=oizZT4YAAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  {
+    "id": "adriano.caprara",
+    "name": "Adriano Caprara",
+    "slug": "adriano-caprara",
+    "type": "person",
+    "cluster": "People",
+    "photo": "adriano-caprara.jpg",
+    "description": "Researcher working on industrial energy flexibility and electricity markets.",
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=xsdzir8AAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  {
+    "id": "oscar.cabrera",
+    "name": "Oscar Cabrera",
+    "slug": "oscar-cabrera",
+    "type": "person",
+    "cluster": "People",
+    "photo": "oscar-cabrera.jpg",
+    "description": "Researcher working on renewable energy integration and power system modelling."
+  },
+  {
+    "id": "ran.zheng",
+    "name": "Ran Zheng",
+    "slug": "ran-zheng",
+    "type": "person",
+    "cluster": "People",
+    "photo": "ran-zheng.jpg",
+    "description": "Researcher focusing on AI and data-driven approaches for power systems."
+  },
+  {
+    "id": "uxue.garciandia",
+    "name": "Uxue Garciandia",
+    "slug": "uxue-garciandia",
+    "type": "person",
+    "cluster": "People",
+    "photo": "uxue-garciandia.jpg",
+    "description": "Researcher working on energy system modelling and smart grid technologies."
+  },
+  {
+    "id": "isabel.bachs",
+    "name": "Isabel Bachs",
+    "slug": "isabel-bachs",
+    "type": "person",
+    "cluster": "People",
+    "photo": "isabel-bachs.jpg",
+    "description": "Researcher focusing on distributed energy resources and power system analysis."
+  },
+  {
+    "id": "engy.sameer",
+    "name": "Engy Sameer",
+    "slug": "engy-sameer",
+    "type": "person",
+    "cluster": "People",
+    "photo": "engy-sameer.jpg",
+    "description": "Researcher working on renewable energy integration and smart grid technologies."
+  },
+  {
+    "id": "sergio.martinez",
+    "name": "Sergio Martinez",
+    "slug": "sergio-martinez",
+    "type": "person",
+    "cluster": "People",
+    "photo": "sergio-martinez.jpg",
+    "description": "Researcher working on power system modelling and grid digitalization."
+  },
+  {
+    "id": "yixing.du",
+    "name": "Yixing Du",
+    "slug": "yixing-du",
+    "type": "person",
+    "cluster": "People",
+    "photo": "yixing-du.jpg",
+    "description": "Researcher working on data analytics for energy systems."
+  },
+  {
+    "id": "marc.carillo",
+    "name": "Marc Carillo",
+    "slug": "marc-carillo",
+    "type": "person",
+    "cluster": "People",
+    "photo": "marc-carillo.jpg",
+    "description": "Researcher working on machine learning and energy systems."
+  },
+  {
+    "id": "jordi.falguera",
+    "name": "Jordi Falguera",
+    "slug": "jordi-falguera",
+    "type": "person",
+    "cluster": "People",
+    "photo": "jordi-falguera.jpg",
+    "description": "Researcher focusing on energy communities and distributed energy systems."
+  },
+  {
+    "id": "pablo.miguel",
+    "name": "Pablo Miguel",
+    "slug": "pablo-miguel",
+    "type": "person",
+    "cluster": "People",
+    "photo": "pablo-miguel.jpg",
+    "description": "Researcher working on power system modelling and renewable integration."
+  },
+  {
+    "id": "alex.sala",
+    "name": "Alex Sala",
+    "slug": "alex-sala",
+    "type": "person",
+    "cluster": "People",
+    "photo": "alex-sala.jpg",
+    "description": "Researcher working on smart grid technologies and energy analytics."
+  },
+  {
+    "id": "berta.alsina",
+    "name": "Berta Alsina",
+    "slug": "berta-alsina",
+    "type": "person",
+    "cluster": "People",
+    "photo": "berta-alsina.jpg",
+    "description": "Researcher focusing on digitalization of energy systems."
+  },
+  {
+    "id": "jose.forero",
+    "name": "Jose Forero",
+    "slug": "jose-forero",
+    "type": "person",
+    "cluster": "People",
+    "photo": "jose-forero.jpg"
+  },
+  {
+    "id": "fever",
+    "name": "FEVER",
+    "slug": "fever",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "fever.jpg"
+  },
+  {
+    "id": "bd4opem",
+    "name": "BD4OPEM",
+    "slug": "bd4opem",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "bd4opem.jpg"
+  },
+  {
+    "id": "odeon",
+    "name": "ODEON",
+    "slug": "odeon",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "odeon.jpg"
+  },
+  {
+    "id": "industria",
+    "name": "INDUSTRIA",
+    "slug": "industria",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "industria.jpg"
+  },
+  {
+    "id": "ideal4green",
+    "name": "IDEAL4GREEN",
+    "slug": "ideal4green",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "ideal4green.jpg"
+  },
+  {
+    "id": "ai4greendeal",
+    "name": "AI4GREENDEAL",
+    "slug": "ai4greendeal",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "ai4greendeal.jpg"
+  },
+  {
+    "id": "pulse",
+    "name": "PULSE",
+    "slug": "pulse",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "pulse.jpg"
+  },
+  {
+    "id": "hystore",
+    "name": "HYSTORE",
+    "slug": "hystore",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "hystore.jpg"
+  },
+  {
+    "id": "catedra.anell",
+    "name": "Catedra Anell",
+    "slug": "catedra-anell",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "catedra-anell.jpg"
+  },
+  {
+    "id": "catedra.endesa",
+    "name": "Catedra Endesa",
+    "slug": "catedra-endesa",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "catedra-endesa.jpg"
+  },
+  {
+    "id": "platon",
+    "name": "PLATON",
+    "slug": "platon",
+    "type": "project",
+    "cluster": "Projects",
+    "photo": "platon.jpg"
+  },
+  {
+    "id": "inea",
+    "name": "INEA",
+    "slug": "inea",
+    "type": "industry",
+    "cluster": "Industry",
+    "photo": "inea.jpg"
+  },
+  {
+    "id": "sintef",
+    "name": "SINTEF",
+    "slug": "sintef",
+    "type": "industry",
+    "cluster": "Industry",
+    "photo": "sintef.jpg"
+  },
+  {
+    "id": "igrid",
+    "name": "IGRID",
+    "slug": "igrid",
+    "type": "industry",
+    "cluster": "Industry",
+    "photo": "igrid.jpg"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "source": "andreas.sumper",
+    "target": "vinicius.gadelha",
+    "type": "supervision"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "antonio.saldana",
+    "type": "supervision"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "marc.jene",
+    "type": "supervision"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "engy.sameer",
+    "type": "supervision"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "inea",
+    "type": "contact"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "sintef",
+    "type": "contact"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "joan.marc",
+    "type": "supervision"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "yixing.du",
+    "type": "supervision"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "fever",
+    "type": "work"
+  },
+  {
+    "source": "andreas.sumper",
+    "target": "ideal4green",
+    "type": "work"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "paula.gonzalez",
+    "type": "collaboration"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "antonio.saldana",
+    "type": "collaboration"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "odeon",
+    "type": "work"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "engy.sameer",
+    "type": "mentor"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "pablo.miguel",
+    "type": "supervision"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "sergio.martinez",
+    "type": "collaboration"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "antonio.saldana",
+    "type": "collaboration"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "inea",
+    "type": "contact"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "oscar.cabrera",
+    "type": "collaboration"
+  },
+  {
+    "source": "vinicius.gadelha",
+    "target": "sara.barja",
+    "type": "collaboration"
+  },
+  {
+    "source": "sara.barja",
+    "target": "odeon",
+    "type": "work"
+  }
+]

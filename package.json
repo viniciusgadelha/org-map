@@ -1,0 +1,20 @@
+{
+  "name": "org-map",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "excel:generate": "node tools/generate-excel.js",
+    "excel:sync": "node tools/sync-data.js"
+  },
+  "devDependencies": {
+    "exceljs": "^4.4.0",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "d3": "^7.9.0"
+  }
+}

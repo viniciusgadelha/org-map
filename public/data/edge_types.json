@@ -1,0 +1,27 @@
+[
+  {
+    "id": "supervision",
+    "label": "Supervision",
+    "color": "#b01bf5"
+  },
+  {
+    "id": "collaboration",
+    "label": "Collaborate",
+    "color": "#0EA5E9"
+  },
+  {
+    "id": "work",
+    "label": "Works On",
+    "color": "#69c993"
+  },
+  {
+    "id": "mentor",
+    "label": "Mentors",
+    "color": "#dd77ed"
+  },
+  {
+    "id": "contact",
+    "label": "Has Contact",
+    "color": "#DE7A73"
+  }
+]
