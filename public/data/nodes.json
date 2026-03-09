@@ -296,6 +296,14 @@
     "photo": "jose-fernando.jpg"
   },
   {
+    "id": "marina",
+    "name": "marina",
+    "slug": "marina",
+    "type": "person",
+    "cluster": "people",
+    "photo": "marina.jpg"
+  },
+  {
     "id": "fever",
     "name": "FEVER",
     "slug": "fever",
